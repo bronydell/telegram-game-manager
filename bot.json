@@ -1,0 +1,26 @@
+{
+  "messages": {
+    "play_with_friends": "Play with friends!",
+    "json_bot_valid": "Done and done",
+    "json_bot_not_valid": "Check your json file with http://jsonlint.com/",
+    "not_admin": "You aren't administrator"
+  },
+  "admins": [
+    122921921,
+    3527572
+  ],
+  "games": [
+    {
+      "name": "Box game",
+      "play_text": "Play a box game",
+      "game_short_name": "boxgame",
+      "url": "http://games.bronydell.xyz/boxgame/"
+    },
+    {
+      "name": "Bird game",
+      "play_text": "Play a bird game",
+      "game_short_name": "ThisIsMyBread",
+      "url": "http://games.bronydell.xyz/birdgame/"
+    }
+  ]
+}
